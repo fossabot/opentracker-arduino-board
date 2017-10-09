@@ -1,4 +1,6 @@
 #OpenTracker - Arduino Boards Manager
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fopentracker-arduino-board.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fopentracker-arduino-board?ref=badge_shield)
+
 
 Works with Arduino IDEs version 1.6.x and later (tested up to 1.6.13)
 
@@ -13,3 +15,7 @@ Maintainers and contributors, please use a separate branch for new releases, so 
 The first commercial grade, fully open source and 100% Arduino compatible GPS/GLONASS vehicle tracker with a powerful 32-bit ARM Cortex-M3 CPU.
 
 Official website: [https://www.geolink.io](https://www.geolink.io)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fopentracker-arduino-board.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fopentracker-arduino-board?ref=badge_large)
